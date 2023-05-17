@@ -12,9 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 Ensure you have Java installed on your system. To check, use the following command:
 
-\```bash
+```bash
 java -version
-\```
+```
 
 If Java is not installed, you can download it from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
@@ -22,35 +22,35 @@ If Java is not installed, you can download it from the [official Oracle website]
 
 Clone the repository to your local machine:
 
-\```bash
+```bash
 git clone https://github.com/yourusername/ataxx.git
-\```
+```
 
 Navigate to the project directory:
 
-\```bash
+```bash
 cd ataxx
-\```
+```
 
 Compile the project:
 
-\```bash
+```bash
 javac -ea ataxx.Main.java
-\```
+```
 
 ## Running the Game
 
 To start the game, use the following command:
 
-\```bash
+```bash
 java -ea ataxx.Main
-\```
+```
 
 For a GUI-based game, use:
 
-\```bash
+```bash
 java -ea ataxx.Main --display
-\```
+```
 
 ## How to Play
 
