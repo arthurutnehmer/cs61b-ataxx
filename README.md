@@ -1,4 +1,5 @@
 # Ataxx Game
+https://inst.eecs.berkeley.edu/~cs61b/fa16/materials/proj/proj2/index.html
 
 Ataxx is a two-person game played on a 7-by-7 board, with red and blue pieces. It offers an exciting strategy experience with a simple concept: players can either extend from a piece of their own color or jump to a distant square, replacing all opposing pieces next to the destination square.
 
