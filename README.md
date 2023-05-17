@@ -67,14 +67,6 @@ Ataxx has several commands to facilitate smooth gameplay:
 - **dump**: Prints the board out.
 - **load [file]**: Reads the given file and in effect substitutes its contents for the load command itself.
 
-## Testing
-
-The project includes tests to ensure everything is working correctly. To run the tests:
-
-\```bash
-# add instructions to run tests
-\```
-
 ## Contribution
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
