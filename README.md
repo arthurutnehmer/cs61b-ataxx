@@ -72,10 +72,6 @@ Ataxx has several commands to facilitate smooth gameplay:
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
-## Licensing
-
-This project is licensed under MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions.
